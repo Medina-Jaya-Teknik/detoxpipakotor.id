@@ -51,7 +51,7 @@ export default function MapSection() {
               </div>
 
               <div className="flex items-start gap-4 p-4 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                <div className="w-10 h-10 rounded-xl bg-purple-100 text-purple-700 flex items-center justify-center flex-shrink-0 mt-1">
+                <div className="w-10 h-10 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center flex-shrink-0 mt-1">
                   <FaPhoneAlt className="text-lg" />
                 </div>
                 <div>

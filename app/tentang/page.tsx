@@ -97,7 +97,7 @@ export default function TentangPage() {
               </div>
 
               <div className="p-6 rounded-3xl bg-slate-50 border border-slate-200 space-y-3">
-                <FaUserShield className="text-3xl text-purple-600" />
+                <FaUserShield className="text-3xl text-sky-600" />
                 <h3 className="text-base font-bold text-slate-900">Teknisi Berpengalaman</h3>
                 <p className="text-xs text-slate-600 leading-relaxed">Tim profesional terlatih dengan peralatan pembersih pipa standar industri modern.</p>
               </div>
