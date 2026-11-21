@@ -78,7 +78,9 @@ export default function ServiceSection() {
                   </div>
 
                   <h3 className="text-xl font-bold text-slate-900 mb-1 group-hover:text-emerald-700 transition-colors">
-                    {service.heading}
+                    <Link href={service.id === "detox-pipa-kotor" ? "/layanan/detox-pipa-kotor-bandung" : "/layanan"}>
+                      {service.heading}
+                    </Link>
                   </h3>
 
                   <p className="text-xs font-bold text-emerald-700 uppercase tracking-wide mb-3">

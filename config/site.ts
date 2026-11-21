@@ -21,11 +21,11 @@ export const siteConfig = {
   name: "detox pipa kotor",
   brandName: "DetoxPipaKotor.id",
   legalName: "Detox Pipa Kotor Bandung",
-  siteTitle: "Jasa Detox Pipa Kotor Bandung | detox pipa kotor",
+  siteTitle: "Jasa Detox Pipa Kotor Bandung - Cuci Pipa Air Bersih & Mampet",
   tagline: "Ahli Pembersihan Pipa & Saluran Air Mampet",
   heroHeading: "Detox Pipa Kotor Bandung: Ahli Pembersihan Pipa & Saluran Air Mampet",
   description:
-    "Promo - Jasa Detox Pipa Kotor Bandung, detox pipa kotor, pipa mampet, WC mampet, dan wastafel mampet di Bandung. harga terjangkau. 📞 0851-2277-7253",
+    "Jasa cuci detox pipa kotor Bandung & pelancar saluran air tanpa bongkar. Pipa higienis bebas kerak lumut. Teknisi siaga ☎️ 0851-2277-7253.",
   heroSubtitle:
     "DetoxPipaKotor.id adalah layanan pembersihan pipa dan saluran air yang siap mengatasi sumbatan, kerak, lemak, dan kotoran membandel. Menggunakan alat profesional tanpa bongkar, kami memastikan aliran air kembali lancar, bersih, dan bebas bau.",
   domain: "https://detoxpipakotor.id",

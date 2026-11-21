@@ -57,7 +57,10 @@ export default function Footer() {
                 <Link href="/" className="hover:text-blue-400 transition-colors">Beranda</Link>
               </li>
               <li>
-                <Link href="/layanan" className="hover:text-blue-400 transition-colors">Layanan</Link>
+                <Link href="/layanan/detox-pipa-kotor-bandung" className="text-cyan-400 hover:underline">★ Detox Pipa Bandung</Link>
+              </li>
+              <li>
+                <Link href="/layanan" className="hover:text-blue-400 transition-colors">Semua Layanan</Link>
               </li>
               <li>
                 <Link href="/harga" className="hover:text-blue-400 transition-colors">Harga</Link>

@@ -38,8 +38,8 @@ export async function generateMetadata({ params }: AreaPageProps): Promise<Metad
     };
   }
 
-  const areaTitle = `Jasa Saluran Mampet & Detox Pipa ${areaData.name} Bandung | ${siteConfig.name}`;
-  const areaDesc = `Jasa saluran mampet dan cuci detox pipa kotor di ${areaData.name}, Bandung. Melancarkan wastafel dapur, WC, dan saluran air tanpa bongkar keramik. Hubungi ☎️ ${siteConfig.phone}.`;
+  const areaTitle = `Jasa Detox Pipa Kotor ${areaData.name} Bandung Terdekat 24 Jam`;
+  const areaDesc = `Jasa cuci detox pipa kotor ${areaData.name} Bandung & pelancar saluran air tanpa bongkar. Pipa higienis bergaransi. Hubungi ☎️ 0851-2277-7253.`;
 
   return {
     title: {

@@ -6,11 +6,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = siteConfig.domain;
 
   // 1. Static Routes
-  const staticRoutes = ["", "/layanan", "/harga", "/tentang", "/kontak", "/blog"].map((route) => ({
+  const staticRoutes = [
+    "",
+    "/layanan",
+    "/layanan/detox-pipa-kotor-bandung",
+    "/harga",
+    "/tentang",
+    "/kontak",
+    "/blog",
+  ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: "daily" as const,
-    priority: route === "" ? 1.0 : 0.8,
+    priority:
+      route === "" || route === "/layanan/detox-pipa-kotor-bandung" ? 1.0 : 0.8,
   }));
 
   // 2. Programmatic Area Local SEO Routes (/kota/[area])

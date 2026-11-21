@@ -6,9 +6,10 @@ import CTASection from "@/components/CTASection";
 
 export const metadata: Metadata = {
   title: {
-    absolute: `Layanan Bersih Pipa Tersumbat Bandung | ${siteConfig.name}`,
+    absolute: "Layanan Detox Pipa Kotor Bandung Terdekat & Saluran Mampet",
   },
-  description: `Detox pipa kotor siap atasi saluran mampet dengan cepat, bersih, tanpa bongkar, dan harga terjangkau di Bandung. 📞 ${siteConfig.phone}`,
+  description:
+    "Layanan cuci detox pipa air bersih & pelancar saluran mampet Bandung tanpa bongkar. Bersih, higienis & bergaransi. Hubungi ☎️ 0851-2277-7253.",
   alternates: {
     canonical: `${siteConfig.domain}/layanan`,
   },
